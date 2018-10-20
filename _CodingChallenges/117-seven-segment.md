@@ -87,6 +87,12 @@ contributions:
       url: "https://twitter.com/Chopokopx"
     url: "https://editor.p5js.org/full/SJ6Nii_o7"
     source: "https://editor.p5js.org/SebastienR/sketches/SJ6Nii_o7"
+  - title: "Seven Segments Clock - Object Orientated"
+    author:
+      name: "Duhamel Guerrero"
+      url: "https://twitter.com/GuerreroDuhamel"
+    url: "https://editor.p5js.org/duhamelgm/full/HJL8UZKiQ"
+    source: "https://editor.p5js.org/duhamelgm/sketches/HJL8UZKiQ"
 ---
 
 In this coding challenge, I make a Seven-Segment Display with p5.js. This video is inspired by Tom Scott's: [What's The Longest Word You Can Write With Seven-Segment Displays?](https://youtu.be/zp4BMR88260).
